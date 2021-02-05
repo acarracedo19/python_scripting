@@ -1,0 +1,8 @@
+# Script para mostrar el uso de while
+
+contador = 0
+
+while contador <= 10:
+	print(contador)
+	contador += 1
+
