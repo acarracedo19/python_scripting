@@ -10,4 +10,3 @@ for caracter_actual in cadena_texto:
 		cantidad_espacios += 1
 
 print("Hay " + str(cantidad_espacios + 1) + " palabras en la cadena de texto")
-
