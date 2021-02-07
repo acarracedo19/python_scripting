@@ -1,13 +1,14 @@
 # Script para mostrar el uso de los archivos 
 
-entero_1 = 78
-entero_2 = 90
-entero_3 = 16
+archivo_entrada = open("../input/fahrenheit.txt","r")
 
-archivo_salida = open("../output/enteros.txt","a")
+datos = []
 
-print(str(entero_1), file = archivo_salida)
-print(str(entero_2), file = archivo_salida)
-print(str(entero_3), file = archivo_salida)
+for line in archivo_entrada:
+	print(line.strip())
+	datos.append(line.strip())
 
-archivo_salida.close()
+print(datos)
+
+archivo_entrada.close()
+

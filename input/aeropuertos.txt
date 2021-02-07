@@ -1,0 +1,8 @@
+ADZ;Colombia;Gustavo Rojas Pinilla International Airport;San Andres Island
+AUA;Aruba;Queen Beatrix International Airport;Aruba
+BOG;Colombia;El Dorado International Airport;Bogota
+CCS;Venezuela;Simon Bolivar International Airport;Caracas
+DEN;Estados Unidos;Denver International Airport;Denver
+EZE;Argentina;Ministro Pistarini International Airport;Buenos Aires
+GUA;Guatemala;La Aurora International Airport;Guatemala
+IAD;Estados Unidos;Washington Dulles International Airport;Washington D.C.
