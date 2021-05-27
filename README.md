@@ -18,5 +18,3 @@ Se depositarán archivos generados por los scripts en los laboratorios
 
 Se encuentra la presentaćión
 
-
-Prueba de webhook
